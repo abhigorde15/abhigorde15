@@ -89,6 +89,12 @@
 <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/artificialintelligence.svg" alt="ai" width="40" height="40"/>
 </a>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 </p>
 
